@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |gem|
   gem.name          = "slickgrid-rails"
-  gem.version       = "0.3.3"
+  gem.version       = "0.3.4"
   gem.authors       = ["Benedikt Böhm"]
   gem.email         = ["benedikt.boehm@madvertise.com"]
   gem.description   = %q{SlickGrid Integration for Rails 3.x}
